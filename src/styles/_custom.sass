@@ -87,6 +87,8 @@
 //COLOR TEXTO//
 .clr
   color: $color-acento-contenido
+  &_1
+    color: #3C0061
 
 //FONDOS COMPLETOS DE CONTENIDO//
 .bg_grad-01
@@ -147,6 +149,35 @@
     background-image: url("../assets/curso/tema1/fondo2.svg")
     background-repeat: no-repeat
     background-size: contain
+.bg_grad-05
+  position: relative
+  p
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: 36%
+    left: 18%
+    width: 88%
+    height: 54%
+    background-color: #D9F8F2
+.bg_grad-06
+  position: relative
+  .row, figure
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0
+    top: -30px
+    left: 0
+    width: 100%
+    height: calc( 100% + 6rem)
+    background-image: url("../assets/curso/tema2/fondo1.png")
+    background-repeat: no-repeat
+    background-size: cover
+    border-radius: 20px
 //BACKGROUND//
 .bgr
   background-color: #F0DCF0
@@ -186,14 +217,30 @@
         color: white
     .acordion__accion__btn--b
       background-color: $color-acento-botones
+  &_9
+    background-color: #7DE5D2
+    &:hover
+      background-color: #FDF2C8
+  &_10
+    background-color: #D9F8F2
+    &::before
+      background-color: #00CCA7
+
   
-
-
 //POSICION PANTALLA//
 .pst
   margin-top: 100px
   @media screen and (max-width: 420px)
     margin-top: 3px
+  &_1
+    position: absolute
+    top: 4%
+    left: 0
+    transform: rotate(180deg)
+  &_2
+    position: absolute
+    bottom: 64%
+    left: 92%
 
 //CLASES REEMPLAAZADAS//
 .horizontal-scroll
