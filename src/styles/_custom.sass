@@ -89,6 +89,8 @@
   color: $color-acento-contenido
   &_1
     color: #3C0061
+  &_2
+    color: $color-primario
 
 //FONDOS COMPLETOS DE CONTENIDO//
 .bg_grad-01
@@ -178,6 +180,38 @@
     background-repeat: no-repeat
     background-size: cover
     border-radius: 20px
+.bg_grad-07
+  position: relative
+  .row, figure, p
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0
+    top: -15%
+    left: 0
+    width: 100%
+    height: 100%
+    background-image: url("../assets/curso/tema3/fondo1.svg")
+    background-repeat: no-repeat
+    background-size: cover
+    border-radius: 20px
+.bg_grad-08
+  position: relative
+  div, figure
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 
+    top: 17%
+    left: 0
+    width: 100%
+    height: 340px
+    background-image: url("../assets/curso/tema3/fondo2.svg")
+    background-repeat: no-repeat
+    background-size: cover
+    border-radius: 20px
 //BACKGROUND//
 .bgr
   background-color: #F0DCF0
@@ -219,12 +253,15 @@
       background-color: $color-acento-botones
   &_9
     background-color: #7DE5D2
+    border-radius: 10px
     &:hover
       background-color: #FDF2C8
   &_10
     background-color: #D9F8F2
     &::before
       background-color: #00CCA7
+  &_11
+    background-color: #F0DCF0
 
   
 //POSICION PANTALLA//
@@ -241,6 +278,11 @@
     position: absolute
     bottom: 64%
     left: 92%
+  &_3
+    margin-top: -158px
+    @media screen and (max-width: 420px)
+      margin-top: -10px
+      
 
 //CLASES REEMPLAAZADAS//
 .horizontal-scroll
