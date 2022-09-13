@@ -84,6 +84,10 @@
 .img900
   max-width: 900px !important
 
+//COLOR TEXTO//
+.clr
+  color: $color-acento-contenido
+
 //FONDOS COMPLETOS DE CONTENIDO//
 .bg_grad-01
   position: relative
@@ -100,4 +104,100 @@
     background-image: url("../assets/curso/introduccion/fondo1.png")
     background-repeat: no-repeat
     background-size: cover
+.bg_grad-02
+  position: relative
+  .row, figure
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: 14%
+    left: 0
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-color: #EEE9F1
+.bg_grad-03
+  position: relative
+  .row, figure
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: 0
+    left: 0
+    width: calc( 100% + 6rem)
+    height: 81%
+    background-image: url("../assets/curso/tema1/fondo1.svg")
+    background-repeat: no-repeat
+    background-size: cover
+.bg_grad-04
+  position: relative
+  .row, figure
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: 9%
+    left: 0
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/tema1/fondo2.svg")
+    background-repeat: no-repeat
+    background-size: contain
+//BACKGROUND//
+.bgr
+  background-color: #F0DCF0
+  &::before
+    background-color: #B3009D
+  &_1
+    background-color: #B396C4
+  &_2
+    background: linear-gradient(291deg, rgba(125,229,210,1) 0%, rgba(180,255,241,1) 100%)
+    border-radius: 10px
+  &_3
+    background-color: #3C0061
+  &_4
+    .tabs-c__content-item
+      background-color: #F0DCF0
+    .tabs-c__header
+      margin-bottom: 0
+    .tabs-c__tab--active
+      span
+        color: $color-acento-contenido
+        font-weight: 700
+  &_5
+    background-color: #E0A3DD
+  &_6
+    background-color: #FDF2C8
+    &:hover
+      background-color: #D9F8F2
+  &_7
+    background-color: #00CCA7
+  &_8
+    .acordion__contenido
+      background-color: white
+    .tarjeta--azul
+      background-color: #3C0061
+    .acordion__titulo
+      h3
+        color: white
+    .acordion__accion__btn--b
+      background-color: $color-acento-botones
+  
+
+
+//POSICION PANTALLA//
+.pst
+  margin-top: 100px
+  @media screen and (max-width: 420px)
+    margin-top: 3px
+
+//CLASES REEMPLAAZADAS//
+.horizontal-scroll
+  align-items: stretch !important
+
+
     
