@@ -163,6 +163,13 @@ export default {
     {
       tema: 'Seguridad y Salud en el trabajo',
       referencia:
+        'Resolución 5018 de 2019. [Ministerio del Trabajo]. Por la cual se establecen lineamientos en Seguridad y Salud en el trabajo en los Procesos de Generación, Transmisión, Distribución y Comercialización de la Energía Eléctrica. Mayo 15, 2021.',
+      tipo: 'Texto',
+      link: 'https://safetya.co/normatividad/resolucion-5018-de-2019/',
+    },
+    {
+      tema: 'Seguridad y Salud en el trabajo',
+      referencia:
         'Ley 1552 de 2012. [Ministerio del Trabajo]. Por la cual se modifica el Sistema de Riesgos Laborales y se dictan otras disposiciones en materia de Salud Ocupacional. Julio 11 de 2012.',
       tipo: 'Texto',
       link:
@@ -327,6 +334,11 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
+        nombre: 'Leyson Fabian Castaño Perez',
+        cargo: 'Soporte organizacional',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
         nombre: 'Blanca Flor Tinoco Torres',
         cargo: 'Diseño <em>web</em>',
         centro:
@@ -339,19 +351,13 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
         nombre: 'Carlos Andrés Díaz Pinto',
-        cargo: 'Desarrollo front-end',
+        cargo: 'Desarrollo <em>front-end</em>',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Maria Eugenia Mejia Lopez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
