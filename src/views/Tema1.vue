@@ -101,7 +101,7 @@
           .titulo-sexto.color-acento-contenido(data-aos="fade-down-right")
             h5 Figura 2
             span Tipos de normas
-          .row.bg_grad-04(data-aos="zoom-out")
+          .row.bg_grad-04.d-flex.align-items-center(data-aos="zoom-out")
             .col-12.col-lg-7.mb-3.mb-lg-0
               SlyderF.pst(columnas="col-lg-12 col-xl-6")
                 .tarjeta.bgr_6.p-4.h-100

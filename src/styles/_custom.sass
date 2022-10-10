@@ -152,21 +152,21 @@
     top: 9%
     left: 0
     width: calc( 100% + 6rem)
-    height: 100%
+    height: 84%
     background-image: url("../assets/curso/tema1/fondo2.svg")
     background-repeat: no-repeat
-    background-size: contain
+    background-size: cover
+    border-radius: 40px
     @media screen and ( max-width: $bp-max-md)
-      background-size: cover
       top: 0
       margin: 0
       width: 100%
       border-radius: 60px
-      
+      height: 96%
     @media screen and ( max-width: 420px)
-      background-size: cover
       border-radius: 30px
       top: 0
+      height: 96%
 .bg_grad-05
   position: relative
   p
@@ -294,6 +294,11 @@
     background-color: #5D0395
   &_14
     background-color: white
+  &_15
+    background-color: #7DE5D2
+    border-radius: 10px
+    &:hover
+      background-color: #FDF2C8
 
   
 //POSICION PANTALLA//

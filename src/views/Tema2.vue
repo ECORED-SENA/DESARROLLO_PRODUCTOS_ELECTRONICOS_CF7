@@ -53,49 +53,49 @@
             h5 Figura 3
             span Elementos de protección personal
         SlyderF.pst(columnas="col-lg-6 col-xl-6")
-          .tarjeta.bgr_9.p-4.h-100
+          .tarjeta.bgr_15.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
                 figura.mb-3.d-flex.justify-content-center
                   img.img160(src='@/assets/curso/tema2/t2-4.svg' alt='AvatarTop')
               p.text-bold.text-center Protección para el oído 
             p.text-center Protectores auditivos de inserción, tipo tapón desechable, reutilizable o pre-moldeable. Supraaurales, tipo disco plano. Supraaurales, tipo banda ajustable. Circumaurales, tipo orejera universal, tipo orejeras con arnés, fijo de cabeza, fijo de barbilla, fijo de nuca. Tipo cascos antirruido, tipo orejeras acopladas a casco. Circuitos electrónicos incorporados, del tipo dependientes del nivel y con aparatos de intercomunicación.
-          .tarjeta.bgr_9.p-4.h-100
+          .tarjeta.bgr_15.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
                 figura.mb-3.d-flex.justify-content-center
                   img.img160(src='@/assets/curso/tema2/t2-5.svg' alt='AvatarTop')
               p.text-bold.text-center Protección para la cabeza 
             p.text-center Cascos de seguridad, los cuales están clasificados en categoría A, B, C y D. Prendas de protección para la cabeza, tales como, gorros, gorras, sombreros, de tejido recubierto. Cascos para usos especiales en fuego, cascos reflectantes.
-          .tarjeta.bgr_9.p-4.h-100
+          .tarjeta.bgr_15.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
                 figura.mb-3.d-flex.justify-content-center
                   img.img160(src='@/assets/curso/tema2/t2-5.svg' alt='AvatarTop')
               p.text-bold.text-center Protección para los ojos y la cara 
             p.text-center Lentes de seguridad tipo montura universal, montura integral, montura cazoletas. Pantallas faciales. Pantallas para soldadores de mano, de cabeza, acoplables a casco de protección. Lentes para usos especiales para trabajos con Rayos X, Rayos Ultravioleta, agentes biológicos y químicos.
-          .tarjeta.bgr_9.p-4.h-100
+          .tarjeta.bgr_15.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
                 figura.mb-3.d-flex.justify-content-center
                   img.img160(src='@/assets/curso/tema2/t2-7.svg' alt='AvatarTop')
               p.text-bold.text-center Protección para las vías respiratorias 
             p.text-center Equipos filtrantes de partículas molestas, nocivas, tóxicas o radiactivas; filtrantes combinados frente a gases y vapores; suministradores de aire, con casco o pantalla para soldadura, con máscara amovible para soldadura, para trabajos bajo el agua.
-          .tarjeta.bgr_9.p-4.h-100
+          .tarjeta.bgr_15.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
                 figura.mb-3.d-flex.justify-content-center
                   img.img160(src='@/assets/curso/tema2/t2-9.svg' alt='AvatarTop')
               p.text-bold.text-center Protección de manos y brazos 
             p.text-center Guantes contra vibración, guantes contra riesgo mecánico, riesgo químico, riesgo biológico, riesgo eléctrico, riesgo de origen térmico y radiaciones, manoplas.
-          .tarjeta.bgr_9.p-4.h-100
+          .tarjeta.bgr_15.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
                 figura.mb-3.d-flex.justify-content-center
                   img.img160(src='@/assets/curso/tema2/t2-8.svg' alt='AvatarTop')
               p.text-bold.text-center Protección de piernas 
             p.text-center Calzado de seguridad, calzado ocupacional  para riesgo eléctrico y químico; botas de goma o caucho,  protección contra el calor o el frío, rodilleras.
-          .tarjeta.bgr_9.p-4.h-100
+          .tarjeta.bgr_15.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
                 figura.mb-3.d-flex.justify-content-center
