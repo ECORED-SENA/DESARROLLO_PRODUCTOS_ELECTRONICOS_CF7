@@ -346,7 +346,7 @@ export default {
       },
       {
         nombre: 'Daniel Polanco',
-        cargo: 'Revisión diseño <em>web</em>',
+        cargo: 'Validación diseño <em>web</em>',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
@@ -357,8 +357,14 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
+        nombre: 'Andres Botello',
+        cargo: 'Validación maquetación',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
         nombre: 'Maria Eugenia Mejia Lopez',
-        cargo: 'Validación de diseño y contenido',
+        cargo: 'Validación contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
