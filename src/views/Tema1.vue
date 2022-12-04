@@ -14,7 +14,7 @@
       .col-12.col-lg-8(data-aos="fade-left")
         p Existe una regulación en el montaje de circuitos y tarjetas electrónicas, las cuales van desde la estética en el diseño y la funcionalidad, hasta las condiciones de operación y afectación al medio ambiente y salud de las personas en contacto con el producto electrónico final.
         .cajon.bgr.p-4.mb-3
-          p.mb-0 Es obligatorio seguir estas regulaciones, sobre todo si el producto a desarrollar pretende ser comercializado, porque debe pasar por una serie de pruebas técnicas que tienen como propósito validar el cumplimiento de los parámetros establecidos en las normas .
+          p.mb-0 Es obligatorio seguir estas regulaciones, sobre todo si el producto a desarrollar pretende ser comercializado, porque debe pasar por una serie de pruebas técnicas que tienen como propósito validar el cumplimiento de los parámetros establecidos en las normas.
         p Las normas aplicadas a la fabricación de circuitos impresos son conocidas como las normas IPC (<em>Institute of Printed Circuit</em> por sus siglas en inglés, creadas por la <em>Association Connecting Electronics Industries</em>). Algunas de ellas son de carácter privado y normalmente se requiere de licenciamiento para su consulta y aplicación, aunque hay procesos que son de seguimiento estándar y aplican para toda la fase de fabricación.
     
     .row.bgr_1.justify-content-center.py-5
@@ -59,7 +59,7 @@
               .col-md-10.col-lg-6.mb-4.mb-lg-0.p-3.p-lg-0
                 p.text-bold.clr Placa moderna
                 p Las tarjetas electrónicas modernas utilizan un sustrato no conductor de la electricidad, normalmente baquelita; sobre este sustrato se embalsa una capa de un material conductor, generalmente cobre. Luego sobre este, se dibujan las pistas que harán de conductores para posteriormente eliminar el cobre sobrante. 
-                p Lógicamente este proceso ha venido evolucionando, manteniéndose el principio del sustrato y el conductor, cambiando los procesos de eliminación del cobre sobrante
+                p Lógicamente este proceso ha venido evolucionando, manteniéndose el principio del sustrato y el conductor, cambiando los procesos de eliminación del cobre sobrante.
       .col-12.col-lg-4(data-aos="fade-right")
         figure.d-flex.justify-content-center
           img.img400.pst_5(src='@/assets/curso/tema1/t1-3.svg', alt='Texto que describa la imagen')   
@@ -90,7 +90,7 @@
         .col-12.col-lg-6
           p La norma más comúnmente usada en la inspección de circuitos electrónicos es la norma IPC610 (www.ipc.org), la cual establece el estándar de calidad para circuitos electrónicos que sirven como guía para el diseño, montaje, ensamble, inspección, cables, insumos de soldadura, pruebas y otros elementos. El cumplimiento de estas normas permite hablar el mismo lenguaje en productores y consumidores; también, contribuyen a que estos encajen perfectamente en cualquier lugar del mundo sin problemas de compatibilidad.
           .bgr_5.p-4.mb-3(data-aos="flip-right")
-            p.mb-0 Una inspección visual a un producto electrónico permite verificar el cumplimiento de algunos parámetros establecidos, es así como puntos de soldadura mal puestos, elementos mal colocados, pistas que no cumplen reglas de diseño, son indicadores de que no se cumplieron los procedimientos de ensamble del      producto .
+            p.mb-0 Una inspección visual a un producto electrónico permite verificar el cumplimiento de algunos parámetros establecidos, es así como puntos de soldadura mal puestos, elementos mal colocados, pistas que no cumplen reglas de diseño, son indicadores de que no se cumplieron los procedimientos de ensamble del      producto.
           p Es necesario consultar las normas para tener claro cuáles son estos criterios de aceptabilidad de un producto electrónico, la siguiente figura 2 expone la función de cada una.
         .col-12.col-lg-6(data-aos="flip-left")
           figure
@@ -192,7 +192,7 @@
                   img(src='@/assets/curso/tema1/t1-16.png', alt='Texto que describa la imagen')
             p.mb-0 Una pantalla no es más que una protección metálica conectada al polo a tierra por lo que envía el ruido eléctrico hacia tierra, disminuyendo la emisión de electromagnetismo e impidiendo que el externo llegue a los circuitos. Una tarjeta dedicada a comunicaciones normalmente debe venir con este sistema, el no tenerlo es causal de no conformidad.
 
-    p En equipos biomédicos, las normas son extremas, estas deben regirse a normatividad especial, lo mismo que para la aeronáutica. Normalmente el desarrollo de estos productos requiere de un estudio especializado, con los permisos debidos .
+    p En equipos biomédicos, las normas son extremas, estas deben regirse a normatividad especial, lo mismo que para la aeronáutica. Normalmente el desarrollo de estos productos requiere de un estudio especializado, con los permisos debidos.
 
                
       

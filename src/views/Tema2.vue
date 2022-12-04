@@ -28,7 +28,7 @@
           p.text-end.clr.text-bold.me-5 (Ministerio del trabajo, s.f.)
         img.pst_1.img30(src='@/assets/curso/tema2/Icon awesome-quote-right.svg', alt='Texto que describa la imagen')
         img.pst_2.img30(src='@/assets/curso/tema2/Icon awesome-quote-right.svg', alt='Texto que describa la imagen')
-        p(data-aos="fade-left") La aplicación de este sistema mejora el ambiente laboral, el bienestar de los trabajadores, evitando ausentismo por enfermedad, pero el mayor impacto se da, al reducir la tasa de accidentalidad y una amplia mejora de la productividad, además que al implementar el sistema ayuda con el cumplimiento de las normas, por parte de las empresas y empleadores .
+        p(data-aos="fade-left") La aplicación de este sistema mejora el ambiente laboral, el bienestar de los trabajadores, evitando ausentismo por enfermedad, pero el mayor impacto se da, al reducir la tasa de accidentalidad y una amplia mejora de la productividad, además que al implementar el sistema ayuda con el cumplimiento de las normas, por parte de las empresas y empleadores.
         p(data-aos="fade-right").text-bold.clr_1 Existen referencias de empresas que mejoraron considerablemente su producción y posteriormente las ventas, solo con implementar un buen sistema de seguridad y salud en el trabajo.
   
     separador
@@ -100,7 +100,7 @@
               .col-8
                 figura.mb-3.d-flex.justify-content-center
                   img.img160(src='@/assets/curso/tema2/t2-6.svg' alt='AvatarTop') 
-            p.text-center Adicionalmente existen protectores de la piel como cremas de protección contra radiaciones por trabajo al aire libre; protectores del tronco y el abdomen como, chalecos, chaquetas y cotonas de protección contra el riesgo mecánico, químico, resistentes a la temperatura, chalecos salvavidas, delantales de protección contra los rayos x , cinturones de sujeción del tronco, equipos de protección contra las caídas distinto nivel tipo arnés, cinturones de posicionamiento, dispositivos de caídas de tipo deslizante, dispositivos con amortiguador, ropa de protección contra proyecciones de metales en fusión y radiaciones infrarrojas.
+            p.text-center Adicionalmente existen protectores de la piel como cremas de protección contra radiaciones por trabajo al aire libre; protectores del tronco y el abdomen como, chalecos, chaquetas y cotonas de protección contra el riesgo mecánico, químico, resistentes a la temperatura, chalecos salvavidas, delantales de protección contra los rayos x, cinturones de sujeción del tronco, equipos de protección contra las caídas distinto nivel tipo arnés, cinturones de posicionamiento, dispositivos de caídas de tipo deslizante, dispositivos con amortiguador, ropa de protección contra proyecciones de metales en fusión y radiaciones infrarrojas.
 
 
     separador
