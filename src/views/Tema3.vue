@@ -97,7 +97,7 @@
           .col-12.col-lg-5
             figure.d-flex.justify-content-center
               img.img400(src='@/assets/curso/tema3/t3-9.svg', alt='Texto que describa la imagen')
-      .col-12.col-lg-9.pst_3(data-aos="fade-right")
+      .col-12.col-lg-12.col-xl-9.pst_3(data-aos="fade-right")
         p Resulta que las emisiones de señales pueden ser perjudiciales para otros equipos, si no son controladas; son múltiples las señales electromagnéticas emitidas día a día, solo imagina, cada emisora de radio, cada canal de televisión, cada aparato de celular, funcionan por señales que viajan en el espacio, es natural pensar que la señal que emite mi celular puede afectar al de mi compañero, o a otro equipo como el televisor o radio, es así en realidad, pero el desarrollador de estos equipos debe tener en cuenta estos parámetros e incluirlos en el diseño. A continuación en la figura 4 se presenta un ejercicio que se puede realizar como comprobación de lo que se ha expuesto.
     
     .bg_grad-07
